@@ -1,0 +1,7 @@
+name: LockdownPlugin
+version: ${project.version}
+main: net.kunmc.lab.lockdownplugin.LockdownPlugin
+api-version: 1.16
+authors: [ Yamato ]
+description: 夜に出歩くと命を落とします。
+website: https://github.com/Yamato1989
